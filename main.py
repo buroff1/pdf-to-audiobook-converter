@@ -12,6 +12,7 @@ class PDFReaderApp:
         # Initialize the main application window
         self.root = root
         self.root.title("PDF to MP3 Audiobook Converter")  # Setting the window title
+        self.root.resizable(False, False)  # Make the window non-resizable
 
         # Center the application window on the screen
         self.center_window(800, 600)
