@@ -35,6 +35,7 @@ This application allows users to convert PDF documents into audible MP3 files, m
 - `audiobook.ico`: Application icon.
 - `main.py`: Main script running the application logic.
 - `text sample.pdf`: Sample PDF file for testing.
+- `requirements.txt`: Required Python packages.
 
 ## ✅Run Project
 
